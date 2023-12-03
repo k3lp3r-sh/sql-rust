@@ -1,1 +1,5 @@
-# sql-rust
+Filter:
+  House Number
+  Consumption
+  Occupancy Type
+Estimated Leaks
