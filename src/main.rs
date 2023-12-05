@@ -1,7 +1,7 @@
 // main.rs
 
 use mysql::prelude::*;
-use mysql::{Pool, PooledConn, params};
+use mysql::{Pool};
 
 fn main() {
     // MySQL database connection parameters
