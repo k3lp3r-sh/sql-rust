@@ -1025,6 +1025,7 @@ dependencies = [
 name = "rust-mysql"
 version = "0.1.0"
 dependencies = [
+ "chrono",
  "mysql",
 ]
 
